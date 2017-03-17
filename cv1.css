@@ -1,6 +1,6 @@
 html, body {
- margin: 30px;
- padding: 5px;
+ margin: 0px;
+ padding: 0px;
  }
 body {
  background-color: #808080; 
@@ -24,8 +24,8 @@ h2 {
  font-family: AR Cena;
  color: black; 
  text-align: left;
- padding: 15px;
- line-height:1px;
+ padding: 10px;
+ line-height:15px;
  
 }
  
@@ -35,8 +35,8 @@ h2 {
  font-family: Toledo;
  color: black; 
  text-align: center;
- padding: 10px;
- line-height:25px;
+ padding: 20px;
+ line-height: 25px;
  list-style-type: circle;
 }
 
@@ -46,8 +46,8 @@ h2 {
  font-family: Toledo;
  color: black; 
  text-align: center;
- padding: 5px;
- line-height:5px;
+ padding: 20px;
+ line-height:25px;
  list-style-type: circle;
 }
 
@@ -57,8 +57,8 @@ h2 {
  font-family: Toledo;
  color: black; 
  text-align: center;
- padding: 5px;
- line-height:10px;
+ padding: 20px;
+ line-height:25px;
  list-style-type: circle;
 }
 
@@ -69,8 +69,8 @@ h2 {
  font-family: Toledo;
  color: black; 
  text-align: center;
- padding: 10px;
- line-height:10px;
+ padding: 20px;
+ line-height:25px;
  list-style-type: circle;
  
  }
