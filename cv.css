@@ -10,8 +10,8 @@ body {
  height: 100%
  }
 h1 {
- font-size: 170%;
- text-shadow:  3px 3px 3px navy;
+ background-color: black;
+ font-size: 190%;
  color: white; 
  text-align: center;
  font-family: Impact;
@@ -20,7 +20,6 @@ h1 {
  
 p, ul, li {
  color: black;
- 
  font-size: 100%;
  font-family: Agency FB;
 text-align: center;
