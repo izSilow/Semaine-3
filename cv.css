@@ -10,12 +10,12 @@ body {
  height: 100%
  }
 h1 {
- background-color: black;
+ background-color: white;
  font-size: 190%;
- color: white; 
+ color: black; 
  text-align: center;
- font-family: Impact;
- padding:2px;
+ font-family: Hollywood Hills;
+ padding:3px;
  }
  
 p, ul, li {
@@ -25,5 +25,4 @@ p, ul, li {
 text-align: center;
 line-height: 20px;
 padding: 2px; 
-
  }
