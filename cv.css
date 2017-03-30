@@ -1,16 +1,20 @@
 html, body {
+ height: 100%;
+ width: 100%;
  margin: 0;
  padding: 0;
  }
+ 
 body {
- background-color :WindowFrame; 
+ background: url("http://reinformation.tv/wp-content/uploads/2013/07/fond-d%C3%A9grad%C3%A9-mauvais.jpg") left top;
  font-family: Verdana, sans-serif; 
  font-size: 100%;
  width: 100%;
  height: 100%
+ 
  }
 h1 {
- background-color: white;
+
  font-size: 190%;
  color: black; 
  text-align: center;
@@ -18,11 +22,24 @@ h1 {
  padding:3px;
  }
  
-p, ul, li {
+ul {
  color: black;
- font-size: 100%;
- font-family: Agency FB;
+ font-size: 150%;
+ font-family: Freestyle Script;
 text-align: center;
 line-height: 20px;
 padding: 2px; 
+
  }
+ 
+ .title {
+  font-size: 50px;
+ }
+ 
+ .block_coord {
+  
+  font-size: 150%;
+  font-family: Freestyle Script;
+  text-align: center;
+ }
+ 
