@@ -38,17 +38,17 @@ h1 {
 
 .blabla { 
  
- line-height: 25px;
+ line-height: 40px;
   font-size: 120%;
   font-family: Agency FB;
-  text-align: left;
+  text-align: center;
  
   }
  
  
  .haha { 
   
-  line-height: 25px;
+  line-height: 40px;
   font-size: 120%;
   font-family: Agency FB;
   text-align: center;
@@ -57,9 +57,9 @@ h1 {
  
  .hoho {
 
- line-height: 25px;
+ line-height: 40px;
   font-size: 120%;
   font-family: Agency FB;
-  text-align: left;
+  text-align: center;
 
 }
